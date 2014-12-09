@@ -28,7 +28,7 @@ void draw() {
   //clear the background and set the fill colour
   background(100, 0, 0);
   fill(255, 100, 0); 
-
+  stroke(0);
   // draw the circle in its current position
   ellipse(x, y, w, h); 
 
